@@ -1,3 +1,4 @@
+// Create Car class
 class Car {
     constructor(make, model, year) {
         this.make = make
@@ -15,3 +16,6 @@ class Car {
         }, 3000)
     }
 }
+
+// Create a variable called mySweetRide and assign it a car
+var mySweetRide = new Car ('Pontiac', 'Fiero', 1988)
