@@ -1,2 +1,5 @@
-# m10-hw12-matthews-renesha
-JavaScript Practice: ES6 Classes
+## Issues
+I had no issues.
+
+## Resources
+No outside resources were used.
